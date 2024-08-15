@@ -67,3 +67,4 @@ npm run dev
 Open your browser and go to `http://localhost:5173` (or the URL specified by your development server) to see the To-Do App in action.
 
 ## Example Usage
+![Your Handy To-Do](https://github.com/user-attachments/assets/d8697375-dbf1-493d-924b-8862febda4bb)
